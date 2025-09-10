@@ -1,0 +1,5 @@
+# System files
+desktop.ini
+
+# Cache files
+__pycache__/
